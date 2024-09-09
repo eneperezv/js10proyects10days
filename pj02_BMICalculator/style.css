@@ -1,0 +1,20 @@
+body{
+    background-color: #8e978d;
+    color: #000;
+}
+
+.container{
+    background-color: #97c4ad;
+    max-width: 400px;
+    margin: 200px auto;
+    padding: 20px;
+    border: 2px solid #cdf2d6;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+h2{
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+}
